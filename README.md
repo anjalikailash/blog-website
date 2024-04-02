@@ -8,4 +8,4 @@ In this project we used
 -javascript
 -bootstrap
 
-Creating a fronteand for the personal blog website with the help of @codewithsadee.github
+Creating a fronteand for the personal blog website with the help of @codewithsadee
